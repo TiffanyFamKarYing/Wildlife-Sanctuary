@@ -1,6 +1,6 @@
 # Rainforest Sabah Haven Wildlife Sanctuary Database
 
-SEG1201: Database Fundamentals — Group Coursework (Group 2_3)
+SEG1201: Database Fundamentals Group Coursework (Group 2_3)
 BSc (Hons) Information Technology / Computer Science / Software Engineering / Information Systems (Data Analytics) / Computer Networking and Security
 Sunway University, School of Engineering and Technology, Year 1, Academic Session April 2025
 
@@ -8,7 +8,7 @@ Sunway University, School of Engineering and Technology, Year 1, Academic Sessio
 
 This project designs and implements a relational database for the **Rainforest Sabah Haven Wildlife Sanctuary**, a fictional wildlife rehabilitation and rescue sanctuary near Kota Kinabalu, Sabah. The sanctuary cares for injured and endangered animals native to Borneo (e.g. clouded leopards, proboscis monkeys, orangutans, pangolins, sun bears, hornbills) from arrival through health monitoring, feeding, enrichment, habitat assignment, and eventual release.
 
-The database tracks the full lifecycle of each animal — rescue, health checks, feeding, enrichment activities, staff and volunteer assignments, and release — enforcing the sanctuary's operational business rules through constraints and triggers.
+The database tracks the full lifecycle of each animal: rescue, health checks, feeding, enrichment activities, staff and volunteer assignments, and release by enforcing the sanctuary's operational business rules through constraints and triggers.
 
 ## Project Structure
 
